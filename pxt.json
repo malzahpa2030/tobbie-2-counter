@@ -1,5 +1,6 @@
 {
     "name": "Tobbie 2 counter",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
